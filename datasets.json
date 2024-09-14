@@ -1,0 +1,1521 @@
+[
+    {
+        "prompt": "Send an update on the project status with details on progress and upcoming milestones.",
+        "subject": "Update on Your Project Status",
+        "body": "Dear [Recipient's Name],\n\nI hope this message finds you in good health and high spirits.\n\nI am writing to provide you with a comprehensive update on the status of your project. As of today, we have made significant progress in several key areas. The initial phases of the project, including [specific tasks or milestones], have been successfully completed. We are currently working on [next steps or current tasks], and everything is progressing as planned.\n\nOur team has encountered a few minor challenges, but we have addressed them promptly and efficiently. The overall timeline remains on track, and we anticipate meeting the upcoming milestones without any delays. If there are any adjustments or additional inputs required from your end, please do not hesitate to let me know.\n\nI would also like to schedule a brief meeting to discuss the project's current status and any potential concerns you might have. Please let me know your availability for a meeting sometime this week.\n\nThank you for your continued support and collaboration.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Request feedback on the recent marketing campaign results and suggest a follow-up meeting.",
+        "subject": "Feedback Request: Recent Marketing Campaign Results",
+        "body": "Dear [Recipient's Name],\n\nI hope this email finds you well.\n\nI am reaching out to request your feedback on the recent marketing campaign that we launched last month. We have gathered some preliminary results and would greatly appreciate your insights on how the campaign has performed in terms of engagement and overall effectiveness.\n\nAdditionally, I would like to suggest scheduling a follow-up meeting to discuss the results in detail and explore strategies for future campaigns. Please let me know your availability for a meeting in the coming week.\n\nThank you for your time and valuable input.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Notify the team about the upcoming project deadline and remind them of their tasks.",
+        "subject": "Reminder: Upcoming Project Deadline",
+        "body": "Hi Team,\n\nI hope you're all doing well.\n\nThis is a reminder that our project deadline is approaching on [specific date]. As we get closer to the deadline, please ensure that all of your tasks are completed and any pending issues are addressed.\n\nHere are the key tasks and deadlines for each team member:\n- [Task 1] by [Date]\n- [Task 2] by [Date]\n- [Task 3] by [Date]\n\nIf you have any questions or need assistance with your tasks, please reach out as soon as possible. Let's make sure we meet our deadline successfully.\n\nBest,\n[Your Name]",
+        "intent": "Reminder",
+        "tone": "Neutral"
+    },
+    {
+        "prompt": "Send an invitation for a team-building event and include details about the event.",
+        "subject": "Invitation: Team-Building Event",
+        "body": "Dear Team,\n\nWe are excited to invite you to our upcoming team-building event, which will be held on [date] at [location]. This event is a great opportunity for us to strengthen our team dynamics and have some fun together.\n\nDetails of the event are as follows:\n- Date: [date]\n- Time: [time]\n- Location: [location]\n- Activities: [brief description of activities]\n\nPlease RSVP by [RSVP deadline] so we can make the necessary arrangements. If you have any dietary restrictions or special requests, kindly let us know in advance.\n\nLooking forward to seeing everyone there!\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Invitation",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Inform the client about a delay in their project delivery and provide a revised timeline.",
+        "subject": "Update: Project Delivery Timeline",
+        "body": "Dear [Client's Name],\n\nI hope you are well.\n\nI am writing to inform you about an unexpected delay in the delivery of your project. Due to [brief explanation of the cause of delay], we are unable to meet the original delivery date of [original date].\n\nWe have revised our timeline and now expect to complete the project by [new delivery date]. We understand the inconvenience this may cause and are working diligently to minimize any further delays.\n\nPlease let me know if you have any questions or if there is anything we can do to assist you during this period. Thank you for your understanding and patience.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "intent": "Inform",
+        "tone": "Neutral"
+    },
+    {
+        "prompt": "Send a follow-up email after a job interview to express appreciation and interest.",
+        "subject": "Thank You for the Interview",
+        "body": "Dear [Interviewer's Name],\n\nI wanted to extend my sincere gratitude for the opportunity to interview for the [Job Title] position at [Company Name] on [interview date]. It was a pleasure to learn more about the role and the team.\n\nI am very excited about the possibility of joining [Company Name] and contributing to [specific aspect of the job or company]. Our conversation reinforced my enthusiasm for the position and my confidence that my skills and experiences align well with your needs.\n\nPlease let me know if there are any additional materials or information you need from me. I look forward to the next steps in the process.\n\nThank you once again for your time and consideration.\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Happy"
+    },
+    {
+        "prompt": "Send a thank you email to a colleague for their help on a recent project.",
+        "subject": "Thank You for Your Support on the Project",
+        "body": "Hi [Colleague's Name],\n\nI hope you’re doing well.\n\nI wanted to take a moment to thank you for your invaluable support on the recent [Project Name]. Your expertise and dedication were crucial in ensuring that we met our goals and delivered a high-quality result.\n\nI truly appreciate the extra effort you put in and the positive attitude you maintained throughout the project. It was a pleasure working with you, and I look forward to collaborating on future projects.\n\nThanks once again for all your help!\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Happy"
+    },
+    {
+        "prompt": "Send a polite request for updated pricing information from a supplier.",
+        "subject": "Request for Updated Pricing Information",
+        "body": "Dear [Supplier's Name],\n\nI hope this email finds you well.\n\nCould you please provide us with the updated pricing information for the products listed in our last order? We are currently reviewing our budget and would appreciate receiving this information at your earliest convenience.\n\nThank you for your assistance. We look forward to your prompt reply.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Send a formal complaint about a service delay.",
+        "subject": "Formal Complaint: Service Delay",
+        "body": "Dear [Service Provider's Name],\n\nI am writing to express my dissatisfaction with the delay in receiving the services we had contracted. Our service was scheduled for [date], but it has been delayed without any communication from your side.\n\nThis has caused significant inconvenience to our operations. I would appreciate it if you could provide a clear explanation and a resolution to this issue at your earliest convenience.\n\nPlease treat this matter as urgent.\n\nSincerely,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "intent": "Complaint",
+        "tone": "Frustrated"
+    },
+    {
+        "prompt": "Inform a client about a system upgrade and possible downtime.",
+        "subject": "Upcoming System Upgrade and Scheduled Downtime",
+        "body": "Dear [Client's Name],\n\nWe would like to inform you about an upcoming system upgrade scheduled for [date] from [start time] to [end time]. During this period, there will be brief downtime, and access to [specific services] may be limited.\n\nWe have taken all necessary precautions to minimize any disruption, and we apologize for any inconvenience this may cause.\n\nIf you have any questions or concerns regarding this upgrade, please do not hesitate to reach out to our support team.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "intent": "Inform",
+        "tone": "Neutral"
+    },
+    {
+        "prompt": "Request a meeting to discuss a recent performance review.",
+        "subject": "Request for Meeting: Performance Review Discussion",
+        "body": "Dear [Manager's Name],\n\nI hope you're doing well.\n\nI would like to request a meeting to discuss my recent performance review. There are a few points I would like to clarify and gain a deeper understanding of, as well as discuss potential areas for growth.\n\nPlease let me know your availability for a meeting sometime this week. I look forward to the opportunity to discuss this further.\n\nThank you for your time.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Respectful"
+    },
+    {
+        "prompt": "Inform a colleague about a change in the project timeline.",
+        "subject": "Project Timeline Update",
+        "body": "Hi [Colleague's Name],\n\nI wanted to let you know that the timeline for the [Project Name] has changed. Due to [brief reason], we have extended the deadline to [new date].\n\nPlease adjust your tasks accordingly, and if you need any further clarification, feel free to reach out.\n\nThanks for your flexibility on this!\n\nBest,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Send a complaint email to customer service about a faulty product.",
+        "subject": "Complaint Regarding Faulty Product",
+        "body": "Dear [Customer Service Team],\n\nI am writing to report an issue with the product I recently purchased from your store, [Product Name]. After just [time since purchase], it has started malfunctioning and is no longer working as expected.\n\nI would appreciate it if you could assist me with a replacement or a refund. Please let me know the next steps to resolve this issue.\n\nThank you for your attention to this matter.\n\nSincerely,\n[Your Name]\n[Your Contact Information]",
+        "intent": "Complaint",
+        "tone": "Frustrated"
+    },
+    {
+        "prompt": "Send a request for a project extension due to unforeseen delays.",
+        "subject": "Request for Project Extension",
+        "body": "Dear [Manager's Name],\n\nI hope you are well.\n\nI am writing to formally request an extension for the [Project Name] due to unforeseen delays, particularly [reason for delay]. Despite our team's best efforts, we are unable to meet the original deadline of [original date].\n\nWe kindly request an extension until [new deadline] to ensure we deliver a high-quality outcome. Please let me know if this is feasible.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send a follow-up email to a client regarding an unpaid invoice.",
+        "subject": "Follow-Up: Unpaid Invoice Reminder",
+        "body": "Dear [Client's Name],\n\nI hope this message finds you well.\n\nI am following up on the outstanding invoice [invoice number] that was due on [due date]. Our records indicate that the payment has not yet been received.\n\nWe would appreciate it if you could review this at your earliest convenience and let us know when we can expect payment. Please feel free to contact us if you have any questions or need further information.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+        "intent": "Follow-up",
+        "tone": "Firm"
+    },
+    {
+        "prompt": "Notify the team about an upcoming training session and provide details.",
+        "subject": "Upcoming Training Session on [Topic]",
+        "body": "Hi Team,\n\nI am pleased to inform you about an upcoming training session on [Topic], scheduled for [date] at [time]. This session will cover [brief overview of content] and is aimed at enhancing our skills in [specific area].\n\nAttendance is mandatory, so please mark your calendars. If you have any scheduling conflicts, let me know in advance so we can make necessary adjustments.\n\nLooking forward to seeing you all there.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Encouraging"
+    },
+    {
+        "prompt": "Send a thank-you email to a client after a successful meeting.",
+        "subject": "Thank You for the Productive Meeting",
+        "body": "Dear [Client's Name],\n\nI wanted to take a moment to thank you for the productive meeting we had on [date]. It was a pleasure discussing [key topics], and I appreciate your insights and suggestions.\n\nI look forward to moving ahead with the next steps and will follow up with [specific action items] shortly.\n\nThanks again for your time and collaboration.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Thank",
+        "tone": "Appreciative"
+    },
+    {
+        "prompt": "Send a complaint about poor internet service quality to the provider.",
+        "subject": "Complaint Regarding Poor Internet Service",
+        "body": "Dear [Provider's Name],\n\nI am writing to express my frustration with the consistent poor quality of internet service over the past few weeks. Despite multiple complaints, the issue remains unresolved, and it is severely impacting our work.\n\nI would appreciate it if you could prioritize this issue and provide a permanent solution as soon as possible. Please let me know the steps you will take to rectify this situation.\n\nThank you for your prompt attention.\n\nSincerely,\n[Your Name]\n[Your Contact Information]",
+        "intent": "Complaint",
+        "tone": "Frustrated"
+    },
+    {
+        "prompt": "Send a reminder to the team about the approaching project deadline.",
+        "subject": "Reminder: Approaching Project Deadline",
+        "body": "Hi Team,\n\nJust a quick reminder that the deadline for the [Project Name] is coming up on [deadline date]. Please make sure to complete your respective tasks by [specific date] so that we can meet the overall deadline without any issues.\n\nIf you encounter any challenges or need support, don't hesitate to reach out.\n\nThank you for your hard work and focus.\n\nBest regards,\n[Your Name]",
+        "intent": "Remind",
+        "tone": "Urgent"
+    },
+    {
+        "prompt": "Apologize to a customer for a shipping delay and offer compensation.",
+        "subject": "Apologies for the Shipping Delay",
+        "body": "Dear [Customer's Name],\n\nI sincerely apologize for the delay in the shipment of your recent order. We experienced an unexpected logistical issue that caused the delay, but your order is now on its way and should arrive by [new estimated delivery date].\n\nTo make up for this inconvenience, we would like to offer you a [discount, coupon, or gift] on your next purchase. We value your business and hope to serve you better in the future.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Apologize",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Send a formal inquiry for product availability and bulk pricing.",
+        "subject": "Inquiry: Product Availability and Bulk Pricing",
+        "body": "Dear [Supplier's Name],\n\nI am interested in placing a bulk order for [Product Name] and would like to inquire about its availability. Additionally, could you please provide details on the bulk pricing options for an order of [specific quantity]?\n\nYour prompt response would be appreciated, as we are looking to place an order soon.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inquire",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Send a notification about an upcoming scheduled system maintenance.",
+        "subject": "Scheduled System Maintenance Notification",
+        "body": "Dear [Customer's Name],\n\nWe would like to inform you about scheduled system maintenance that will take place on [date] from [start time] to [end time]. During this time, access to [specific services] will be limited.\n\nWe apologize for any inconvenience this may cause and assure you that we are working to ensure the system is back online as quickly as possible. Thank you for your understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Notify",
+        "tone": "Neutral"
+    },
+    {
+        "prompt": "Congratulate an employee on their promotion and express confidence in their success.",
+        "subject": "Congratulations on Your Promotion!",
+        "body": "Dear [Employee's Name],\n\nCongratulations on your well-deserved promotion to [New Position]! Your hard work, dedication, and contributions have truly paid off, and I am confident that you will excel in your new role.\n\nI look forward to seeing the continued positive impact you will have on the team and the company.\n\nWishing you all the best in this exciting new chapter of your career!\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Encouraging"
+    },
+    {
+        "prompt": "Request a reference letter for a job application from a former employer.",
+        "subject": "Request for Reference Letter",
+        "body": "Dear [Former Employer's Name],\n\nI hope you are doing well.\n\nI am currently applying for a position at [Company Name], and I was wondering if you would be willing to write a reference letter for me. Your support would greatly help in strengthening my application.\n\nPlease let me know if this is something you would be able to assist with. I truly appreciate your time and help.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Inform a client that their order has been processed and shipped.",
+        "subject": "Your Order Has Been Shipped!",
+        "body": "Dear [Client's Name],\n\nWe are pleased to inform you that your order [Order Number] has been successfully processed and shipped. You can expect to receive your package by [estimated delivery date].\n\nTo track your shipment, please use the following tracking number: [tracking number].\n\nIf you have any questions or concerns, feel free to reach out to our customer service team.\n\nThank you for shopping with us!\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Positive"
+    },
+    {
+        "prompt": "Send an apology to a client for missing a scheduled meeting.",
+        "subject": "Apology for Missed Meeting",
+        "body": "Dear [Client's Name],\n\nI sincerely apologize for missing our scheduled meeting on [date]. Unfortunately, due to [reason], I was unable to attend, and I regret any inconvenience this may have caused.\n\nI would like to reschedule the meeting at a time that works best for you. Please let me know your availability.\n\nThank you for your understanding, and I look forward to our next discussion.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Sincere"
+    },
+    {
+        "prompt": "Send an update about a product launch delay to customers.",
+        "subject": "Important Update: Product Launch Delay",
+        "body": "Dear [Customer's Name],\n\nWe regret to inform you that the launch of our highly anticipated product [Product Name] has been delayed due to [reason for delay]. We understand this may come as a disappointment, and we sincerely apologize for the inconvenience.\n\nWe are working hard to ensure the product meets the highest standards, and the new launch date is set for [new date].\n\nThank you for your patience and continued support.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Regretful"
+    },
+    {
+        "prompt": "Congratulate a colleague on winning an industry award.",
+        "subject": "Congratulations on Winning the [Award Name]!",
+        "body": "Dear [Colleague's Name],\n\nCongratulations on winning the [Award Name]! This is an incredible achievement, and I wanted to take a moment to acknowledge the hard work and dedication that brought you here.\n\nYou are an inspiration to all of us, and I am sure there will be many more successes in your future. Wishing you continued success and growth.\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Warm"
+    },
+    {
+        "prompt": "Send a formal inquiry to a vendor about custom product options.",
+        "subject": "Inquiry: Custom Product Options",
+        "body": "Dear [Vendor's Name],\n\nI hope this message finds you well.\n\nI am interested in learning more about the custom product options you offer for [specific product type]. Could you please provide more details on customization, pricing, and lead times?\n\nThank you in advance for your assistance. I look forward to your response.\n\nBest regards,\n[Your Name]",
+        "intent": "Inquire",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Send a notice to employees about a holiday closure.",
+        "subject": "Notice: Office Closure for [Holiday]",
+        "body": "Dear Team,\n\nPlease be informed that our office will be closed on [date] in observance of [Holiday]. Normal operations will resume on [date].\n\nWe hope you have a wonderful and relaxing holiday. Should you have any urgent matters during this time, please reach out to [contact person] for assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Neutral"
+    },
+    {
+        "prompt": "Send a follow-up on a previously submitted proposal.",
+        "subject": "Follow-Up on Proposal Submission",
+        "body": "Dear [Recipient's Name],\n\nI hope this message finds you well.\n\nI am following up on the proposal I submitted on [date] regarding [project/subject]. I would appreciate any updates you might have and whether there is any additional information needed from my end.\n\nThank you for your time, and I look forward to your response.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Courteous"
+    },
+    {
+        "prompt": "Apologize to a customer for a billing error.",
+        "subject": "Apologies for Billing Error",
+        "body": "Dear [Customer's Name],\n\nI would like to extend my sincerest apologies for the billing error on your recent invoice. After reviewing the details, we found a discrepancy, and we are in the process of rectifying the mistake.\n\nYou will receive an updated invoice shortly. Please feel free to reach out if you have any concerns or questions.\n\nWe appreciate your patience and understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Apologize",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Notify a colleague about a team-building event.",
+        "subject": "Invitation to Team-Building Event",
+        "body": "Hi [Colleague's Name],\n\nWe are organizing a team-building event on [date] at [location]. The event will include [brief details of activities], and it would be great to have you join us for an afternoon of fun and collaboration.\n\nPlease RSVP by [RSVP deadline] so we can finalize the arrangements.\n\nLooking forward to seeing you there!\n\nBest,\n[Your Name]",
+        "intent": "Invite",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Request a client to review a contract and provide feedback.",
+        "subject": "Request for Contract Review",
+        "body": "Dear [Client's Name],\n\nI hope this message finds you well.\n\nI have attached the contract for [project/service] for your review. Please take a moment to go through it and let me know if there are any questions, concerns, or adjustments you would like to discuss.\n\nWe value your feedback and would appreciate your input before finalizing the agreement.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Notify an employee about an upcoming performance review meeting.",
+        "subject": "Performance Review Meeting Notification",
+        "body": "Dear [Employee's Name],\n\nI would like to inform you that your performance review has been scheduled for [date] at [time]. We will discuss your achievements, areas for improvement, and future goals during this meeting.\n\nPlease let me know if this time works for you, or if you need to reschedule.\n\nLooking forward to our discussion.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send a formal complaint to a service provider about poor customer service.",
+        "subject": "Complaint Regarding Poor Customer Service",
+        "body": "Dear [Service Provider's Name],\n\nI am writing to express my dissatisfaction with the customer service I received on [date]. The representative I spoke with was unhelpful and did not resolve the issue I encountered with [service/product].\n\nI expect better support from your company, and I kindly request that you look into this matter and ensure it is resolved promptly.\n\nI look forward to your response and a satisfactory resolution.\n\nBest regards,\n[Your Name]",
+        "intent": "Complain",
+        "tone": "Firm"
+    },
+    {
+        "prompt": "Invite a colleague to present at a company webinar.",
+        "subject": "Invitation to Present at Our Upcoming Webinar",
+        "body": "Dear [Colleague's Name],\n\nI hope this message finds you well.\n\nWe are hosting a webinar on [topic] on [date], and I would like to invite you to be one of the presenters. Your expertise in [specific area] would add immense value to the session.\n\nPlease let me know if you would be available to join us. We would be honored to have you.\n\nBest regards,\n[Your Name]",
+        "intent": "Invite",
+        "tone": "Encouraging"
+    },
+    {
+        "prompt": "Notify a customer about a price increase for a service.",
+        "subject": "Notice of Price Increase",
+        "body": "Dear [Customer's Name],\n\nI am writing to inform you that, due to increased operational costs, we will be adjusting our pricing for [service/product] starting [effective date]. The new price for [service/product] will be [new price].\n\nWe greatly value your business and have made every effort to keep the price increase to a minimum.\n\nIf you have any questions or concerns, please feel free to reach out to us.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Neutral"
+    },
+    {
+        "prompt": "Congratulate a team member on their promotion.",
+        "subject": "Congratulations on Your Promotion!",
+        "body": "Dear [Team Member's Name],\n\nCongratulations on your well-deserved promotion! Your hard work, dedication, and contributions to the team have been truly inspiring, and this promotion is a testament to that.\n\nI have no doubt that you will excel in your new role, and I look forward to seeing all the great things you will achieve.\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Warm"
+    },
+    {
+        "prompt": "Send a follow-up to a job applicant regarding their interview outcome.",
+        "subject": "Follow-Up on Your Interview",
+        "body": "Dear [Applicant's Name],\n\nThank you for taking the time to interview with us for the [Job Title] position. We appreciate your interest in joining our team.\n\nWe are currently in the process of finalizing our decision and will notify you of the outcome within [time frame]. Please do not hesitate to reach out if you have any further questions in the meantime.\n\nThank you for your patience and understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Follow-up",
+        "tone": "Courteous"
+    },
+    {
+        "prompt": "Send a notice to customers about an upcoming software update.",
+        "subject": "Important Notice: Upcoming Software Update",
+        "body": "Dear [Customer's Name],\n\nWe are excited to announce that a new software update for [product name] will be released on [date]. This update includes several important improvements and new features that we believe you will find beneficial.\n\nPlease be aware that there may be a brief period of downtime while the update is being implemented. We will do our best to minimize any disruption to your service.\n\nThank you for your continued support.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Request feedback from a customer on a recently purchased product.",
+        "subject": "We'd Love Your Feedback on [Product Name]",
+        "body": "Dear [Customer's Name],\n\nThank you for purchasing [product name]! We hope you are enjoying it so far.\n\nWe would greatly appreciate it if you could take a few moments to share your thoughts and feedback. Your input helps us improve our products and services.\n\nThank you for being a valued customer. We look forward to hearing from you!\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Notify an internal team about a change in project priorities.",
+        "subject": "Change in Project Priorities",
+        "body": "Dear Team,\n\nI wanted to inform you that, due to recent developments, there has been a shift in the priorities for our ongoing projects. Effective immediately, we will be focusing more on [new priority project] and reducing resources allocated to [previous priority project].\n\nPlease adjust your timelines and tasks accordingly. If you have any questions or concerns, feel free to reach out to me.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Directive"
+    },
+    {
+        "prompt": "Request a customer to renew their subscription before it expires.",
+        "subject": "Your Subscription Renewal Reminder",
+        "body": "Dear [Customer's Name],\n\nWe hope you're enjoying the benefits of [service/product]. We wanted to remind you that your subscription is set to expire on [expiration date].\n\nTo ensure uninterrupted access, please take a moment to renew your subscription before the expiration date. You can do so easily by logging into your account or contacting our support team for assistance.\n\nThank you for being a valued customer!\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Request",
+        "tone": "Encouraging"
+    },
+    {
+        "prompt": "Inform an employee about a change in company policy regarding remote work.",
+        "subject": "Updated Remote Work Policy",
+        "body": "Dear [Employee's Name],\n\nI hope you're doing well.\n\nWe wanted to notify you of an important change to our company’s remote work policy. Starting [effective date], employees will be required to [policy change, e.g., report to the office two days a week or new remote work regulations].\n\nPlease familiarize yourself with the updated policy and let us know if you have any questions or concerns.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Neutral"
+    },
+    {
+        "prompt": "Ask for a meeting to discuss budget changes in a project.",
+        "subject": "Request for Meeting to Discuss Budget Changes",
+        "body": "Dear [Recipient's Name],\n\nI hope you're doing well.\n\nI would like to schedule a meeting to discuss some proposed changes to the budget for [project name]. Given the recent adjustments in scope and resources, we believe it’s essential to review the allocation of funds to ensure the project remains on track.\n\nPlease let me know your availability for a discussion.\n\nLooking forward to hearing from you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send a message to a supplier, informing them of a delay in payment.",
+        "subject": "Notice of Payment Delay",
+        "body": "Dear [Supplier's Name],\n\nI hope this message finds you well.\n\nI am writing to inform you that due to unforeseen circumstances, there will be a slight delay in processing your payment for [invoice number]. We expect the payment to be made by [new expected payment date].\n\nWe apologize for any inconvenience this may cause and appreciate your understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Congratulate a colleague on completing a major project successfully.",
+        "subject": "Congratulations on Successfully Completing the Project!",
+        "body": "Dear [Colleague's Name],\n\nCongratulations on the successful completion of [project name]! Your hard work and dedication have paid off, and the results are truly impressive.\n\nIt has been a pleasure working with you, and I am looking forward to collaborating on future projects.\n\nWell done, and enjoy the well-deserved recognition!\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Warm"
+    },
+    {
+        "prompt": "Send an email to a customer confirming their order shipment.",
+        "subject": "Order Shipment Confirmation: [Order Number]",
+        "body": "Dear [Customer's Name],\n\nWe are pleased to inform you that your order [order number] has been shipped and is on its way to you. You can expect delivery by [estimated delivery date].\n\nYou can track your shipment using the following link: [tracking link].\n\nThank you for shopping with us, and we hope you enjoy your purchase!\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Inform",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Send a follow-up email after a customer service interaction.",
+        "subject": "Follow-Up on Your Recent Customer Service Experience",
+        "body": "Dear [Customer's Name],\n\nI hope this message finds you well.\n\nWe are reaching out to follow up on your recent interaction with our customer service team. We would appreciate it if you could take a few moments to share your feedback with us. Your input helps us continuously improve our services.\n\nIf there is anything further we can assist you with, please don't hesitate to let us know.\n\nThank you for your time and for choosing [Company Name].\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Courteous"
+    },
+    {
+        "prompt": "Apologize to a customer for a delivery delay.",
+        "subject": "Apology for Delivery Delay",
+        "body": "Dear [Customer's Name],\n\nI am writing to sincerely apologize for the delay in delivering your recent order. We understand the inconvenience this may have caused and are doing everything possible to expedite the process.\n\nPlease rest assured that your order is now expected to arrive by [new estimated date]. If you have any further questions or concerns, please don't hesitate to contact us.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Apologize",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Inform a customer about a new product release and encourage them to check it out.",
+        "subject": "Exciting News: New Product Launch!",
+        "body": "Dear [Customer's Name],\n\nWe are thrilled to announce the launch of our latest product, [product name]! It offers [brief description of features/benefits].\n\nWe would love for you to check it out and experience its benefits firsthand. For more information, please visit our website at [link].\n\nThank you for being a valued customer, and we hope you enjoy this exciting new offering!\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Excited"
+    },
+    {
+        "prompt": "Send an email to a colleague confirming participation in an event.",
+        "subject": "Confirmation of Event Participation",
+        "body": "Dear [Colleague's Name],\n\nI hope this message finds you well.\n\nI wanted to confirm that I will be attending the [event name] on [date]. Please let me know if there are any additional details or preparations required before the event.\n\nLooking forward to it!\n\nBest regards,\n[Your Name]",
+        "intent": "Confirm",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Ask a vendor for an updated quote after the initial one expired.",
+        "subject": "Request for Updated Quote",
+        "body": "Dear [Vendor's Name],\n\nI hope you're doing well.\n\nOur initial quote for [product/service] has expired, and we would like to request an updated version reflecting current prices and terms.\n\nCould you kindly provide a new quote at your earliest convenience? We appreciate your prompt assistance in this matter.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Apologize to a colleague for missing an important meeting.",
+        "subject": "Apology for Missing the Meeting",
+        "body": "Dear [Colleague's Name],\n\nI wanted to apologize sincerely for missing our scheduled meeting earlier today. Unfortunately, due to unforeseen circumstances, I was unable to attend.\n\nI understand the importance of the discussion, and I would like to reschedule at a time that works best for you. Please let me know your availability.\n\nOnce again, I apologize for any inconvenience caused.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Sincere"
+    },
+    {
+        "prompt": "Request detailed information on a product's technical specifications.",
+        "subject": "Request for Product Technical Specifications",
+        "body": "Dear [Recipient's Name],\n\nI hope this message finds you well.\n\nI am interested in learning more about the technical specifications of [product name]. Could you please provide detailed information, including [specific details, e.g., dimensions, materials, performance metrics]? This will help us in our decision-making process.\n\nThank you for your assistance, and I look forward to your response.\n\nBest regards,\n[Your Name]\n[Your Position]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Thank a mentor for their guidance and support throughout a project.",
+        "subject": "Thank You for Your Support and Guidance",
+        "body": "Dear [Mentor's Name],\n\nI wanted to take a moment to express my sincere gratitude for your invaluable guidance throughout the [project name]. Your insights and advice have been instrumental in helping me navigate the challenges and succeed in this endeavor.\n\nThank you for your time and support. I truly appreciate everything you've done for me.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Inform a team member about the approval of their leave request.",
+        "subject": "Leave Request Approval",
+        "body": "Dear [Team Member's Name],\n\nI hope you're doing well.\n\nI am pleased to inform you that your leave request for [dates] has been approved. Please ensure that all tasks are handed over to [colleague's name] before your leave begins.\n\nEnjoy your time off, and we look forward to your return.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Send a message to a client confirming the receipt of their payment.",
+        "subject": "Payment Received: Thank You!",
+        "body": "Dear [Client's Name],\n\nThank you for your prompt payment. We have received your payment for [invoice number] and it has been successfully processed.\n\nShould you need any further information or assistance, please feel free to reach out to us.\n\nWe appreciate your business and look forward to working with you again in the future.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Appreciative"
+    },
+    {
+        "prompt": "Request feedback from a customer about their recent purchase.",
+        "subject": "We Value Your Feedback!",
+        "body": "Dear [Customer's Name],\n\nThank you for your recent purchase of [product/service]! We hope you're enjoying it.\n\nWe would greatly appreciate it if you could take a moment to share your feedback with us. Your input helps us improve and provide better products and services to all our customers.\n\nThank you in advance for your time.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Send a reminder to an employee about an upcoming performance review.",
+        "subject": "Reminder: Upcoming Performance Review",
+        "body": "Dear [Employee's Name],\n\nThis is a friendly reminder that your performance review is scheduled for [date and time]. Please ensure you're prepared and bring any relevant documentation or questions you may have.\n\nLooking forward to our discussion!\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Notify a team about a change in the project deadline.",
+        "subject": "Change in Project Deadline",
+        "body": "Dear Team,\n\nI wanted to inform you that the deadline for the [project name] has been extended to [new date]. This change allows us additional time to ensure the project's success and address any outstanding issues.\n\nPlease let me know if you have any questions or concerns regarding this update.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send an email to a supplier asking for clarification on an invoice discrepancy.",
+        "subject": "Invoice Discrepancy Clarification Needed",
+        "body": "Dear [Supplier's Name],\n\nI hope you're doing well.\n\nWe noticed a discrepancy in the invoice [invoice number], particularly with the pricing for [specific product/service]. Could you please clarify this for us? We want to ensure everything is in order before proceeding with payment.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Request an extension for a project deadline due to unforeseen delays.",
+        "subject": "Request for Project Deadline Extension",
+        "body": "Dear [Recipient's Name],\n\nI hope this email finds you well. Due to unforeseen delays, particularly with [specific issue], we are requesting an extension for the project deadline. We understand the importance of timely delivery, and we are committed to completing the project to the highest standards. However, we believe the additional time will ensure a better outcome.\n\nPlease let us know if this request can be accommodated. We appreciate your understanding and support.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Complain to a service provider about frequent interruptions in service.",
+        "subject": "Frequent Service Interruptions: Urgent Attention Required",
+        "body": "Dear [Service Provider's Name],\n\nI am writing to express my frustration regarding the frequent interruptions in the service we have been experiencing over the past few weeks. These disruptions are severely impacting our operations, and we are hoping you can resolve the issue as soon as possible.\n\nPlease provide an update on how this matter will be addressed and a timeline for resolution. We value your service, but this situation needs immediate attention.\n\nLooking forward to your prompt response.\n\nBest regards,\n[Your Name]",
+        "intent": "Complain",
+        "tone": "Urgent"
+    },
+    {
+        "prompt": "Thank a client for their recent purchase and invite them to provide feedback.",
+        "subject": "Thank You for Your Purchase!",
+        "body": "Dear [Client's Name],\n\nThank you for choosing [company name] for your recent purchase of [product/service]. We hope it exceeds your expectations!\n\nWe would love to hear your thoughts on your experience and how we can improve our offerings. Please feel free to share your feedback with us at your convenience.\n\nThank you for your business, and we look forward to serving you again in the future.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Notify a colleague about changes in a meeting schedule.",
+        "subject": "Meeting Schedule Change Notification",
+        "body": "Dear [Colleague's Name],\n\nI wanted to inform you of a change to the meeting scheduled for [original date and time]. The new time for the meeting is [new date and time]. Please update your calendar accordingly.\n\nLet me know if this change poses any scheduling issues for you, and we can explore alternate options if necessary.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Apologize for a delayed response to a customer inquiry.",
+        "subject": "Apology for Delayed Response",
+        "body": "Dear [Customer's Name],\n\nI sincerely apologize for the delay in responding to your inquiry regarding [issue]. We understand how important your request is and are working diligently to address your concerns as soon as possible.\n\nWe appreciate your patience and understanding, and please know that we value your business. If you have any further questions or require immediate assistance, please do not hesitate to reach out to us.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Sincere"
+    },
+    {
+        "prompt": "Send a message to schedule an appointment with a potential client.",
+        "subject": "Scheduling an Appointment to Discuss [Service/Product]",
+        "body": "Dear [Client's Name],\n\nI hope this message finds you well. I would like to schedule an appointment with you to discuss how [service/product] can meet your needs and provide value to your business. Please let me know your availability over the next few days, and we can arrange a convenient time.\n\nLooking forward to our conversation.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Notify a team about the completion of a major project milestone.",
+        "subject": "Completion of Project Milestone",
+        "body": "Dear Team,\n\nI am pleased to announce that we have successfully completed [specific milestone] in the [project name]. This is a significant achievement, and I want to extend my thanks to each of you for your hard work and dedication.\n\nLet's keep up the great work as we move forward to the next phase of the project!\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Encouraging"
+    },
+    {
+        "prompt": "Ask a coworker for assistance with an urgent task.",
+        "subject": "Urgent Assistance Needed",
+        "body": "Dear [Coworker's Name],\n\nI hope you're doing well. I am currently working on [specific task], and I need your assistance to complete it as it has become more urgent than expected. Could you please help me with [specific request] at your earliest convenience?\n\nYour support would be greatly appreciated, and I will make sure to return the favor in the future.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Urgent"
+    },
+    {
+        "prompt": "Follow up with a supplier after not receiving an expected delivery.",
+        "subject": "Follow-up on Missed Delivery",
+        "body": "Dear [Supplier's Name],\n\nI hope you're doing well. We were expecting delivery of [product] on [expected delivery date], but unfortunately, we have not yet received it.\n\nCould you please provide an update on the delivery status and let us know when we can expect it? We rely on timely deliveries to maintain our operations, so your prompt response would be greatly appreciated.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Concerned"
+    },
+    {
+        "prompt": "Congratulate a colleague on their recent promotion.",
+        "subject": "Congratulations on Your Promotion!",
+        "body": "Dear [Colleague's Name],\n\nI wanted to take a moment to congratulate you on your well-deserved promotion! It's fantastic news, and I know you'll continue to excel in your new role.\n\nWishing you all the best as you embark on this exciting next chapter of your career.\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Positive"
+    },
+    {
+        "prompt": "Request clarification on a task assigned in a meeting.",
+        "subject": "Clarification Needed on Assigned Task",
+        "body": "Dear [Recipient's Name],\n\nI hope you're doing well. I wanted to reach out for clarification on the task assigned to me during our recent meeting. Could you please provide more details on [specific aspect of the task] so I can ensure I am aligned with the expectations?\n\nI appreciate your guidance and support. Looking forward to your response.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Inform a customer that their order has been shipped.",
+        "subject": "Your Order Has Been Shipped",
+        "body": "Dear [Customer's Name],\n\nWe are pleased to inform you that your order [order number] has been shipped and is on its way. You can expect delivery by [expected delivery date].\n\nTo track your package, please use the following tracking number: [tracking number]. If you have any questions or concerns, feel free to reach out to our customer service team.\n\nThank you for choosing [Company Name].\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Cancel a scheduled meeting due to unforeseen circumstances.",
+        "subject": "Meeting Cancellation Notification",
+        "body": "Dear [Recipient's Name],\n\nI regret to inform you that due to unforeseen circumstances, I will need to cancel our meeting scheduled for [date and time]. I sincerely apologize for any inconvenience this may cause.\n\nPlease let me know if you are available to reschedule at a later time.\n\nBest regards,\n[Your Name]",
+        "intent": "Cancel",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Congratulate a team on achieving a significant goal.",
+        "subject": "Congratulations on Achieving Our Goal!",
+        "body": "Dear Team,\n\nI wanted to take a moment to congratulate everyone on reaching the significant milestone of [specific goal]. Your dedication and hard work have truly paid off, and I am incredibly proud of what we have accomplished together.\n\nLet's keep the momentum going as we continue towards the next challenge. Well done, everyone!\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Motivational"
+    },
+    {
+        "prompt": "Follow up on a job application submitted a few weeks ago.",
+        "subject": "Follow-Up on Job Application",
+        "body": "Dear [Recipient's Name],\n\nI hope this message finds you well. I wanted to follow up on my job application for the [job title] position, which I submitted a few weeks ago. I remain very interested in the opportunity to work with [Company Name] and would appreciate any updates on the status of my application.\n\nThank you for your time, and I look forward to hearing from you soon.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Ask a client for feedback after a project completion.",
+        "subject": "Request for Feedback on Recent Project",
+        "body": "Dear [Client's Name],\n\nI hope you're doing well. We recently completed the project for [project name], and I wanted to reach out to ask for your feedback on the experience. Your input is valuable to us as we continuously strive to improve our services.\n\nPlease feel free to share your thoughts, both positive and areas where we could do better.\n\nThank you for your time, and I look forward to hearing from you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Courteous"
+    },
+    {
+        "prompt": "Notify a team about an upcoming deadline.",
+        "subject": "Reminder: Upcoming Project Deadline",
+        "body": "Dear Team,\n\nI wanted to send a quick reminder about the upcoming deadline for [specific task or project], which is on [deadline date]. Please ensure all deliverables are completed and submitted by that time.\n\nIf you encounter any issues or need assistance, don't hesitate to reach out. Let's ensure we finish strong!\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Encouraging"
+    },
+    {
+        "prompt": "Request additional resources for a project from upper management.",
+        "subject": "Request for Additional Project Resources",
+        "body": "Dear [Manager's Name],\n\nI hope you're doing well. As we progress through the [project name], I wanted to request additional resources to ensure its timely and successful completion. Specifically, we could benefit from [specific resources] to better address [specific challenge].\n\nPlease let me know if this can be arranged, as it would greatly help our team meet the upcoming deadlines and deliver high-quality results.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Apologize to a customer for a product defect and offer a solution.",
+        "subject": "Apology for Product Defect and Solution Offered",
+        "body": "Dear [Customer's Name],\n\nWe sincerely apologize for the defect in the product you received, and we completely understand your frustration. Please know that we take full responsibility for this issue and are committed to resolving it as quickly as possible.\n\nWe are offering to replace the product at no additional cost to you or provide a full refund—whichever option you prefer. Please let us know how you'd like to proceed, and we will act promptly.\n\nOnce again, we apologize for the inconvenience, and we appreciate your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Sincere"
+    },
+    {
+        "prompt": "Thank a business partner for their continued support over the years.",
+        "subject": "Thank You for Your Continued Support",
+        "body": "Dear [Partner's Name],\n\nAs we look back on the past few years, I wanted to take a moment to express my heartfelt gratitude for your continued support and collaboration. Your partnership has been invaluable to us, and we truly appreciate the trust and confidence you have placed in our company.\n\nWe look forward to many more successful years of working together.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Ask a colleague for help on a project task you are struggling with.",
+        "subject": "Assistance Needed with Project Task",
+        "body": "Dear [Colleague's Name],\n\nI hope you're doing well. I am currently working on [specific task] for the [project name], and I’ve encountered some difficulties that I could use your help with. Could you please assist me with [specific issue] when you have some time?\n\nYour expertise would be greatly appreciated.\n\nThank you in advance for your help!\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Send a follow-up on an unpaid invoice to a client.",
+        "subject": "Follow-Up on Unpaid Invoice",
+        "body": "Dear [Client's Name],\n\nI hope this message finds you well. I am writing to follow up on the invoice [invoice number] that was sent on [date]. According to our records, payment has not yet been received.\n\nCould you kindly confirm the status of the payment? If there are any issues or concerns regarding the invoice, please let me know, and we can work to resolve them.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Notify a client that a project has been completed.",
+        "subject": "Project Completion Notification",
+        "body": "Dear [Client's Name],\n\nI am pleased to inform you that the project [project name] has been successfully completed. Our team has worked hard to ensure all deliverables meet the agreed-upon specifications.\n\nPlease take a moment to review the final output, and let us know if there is anything that requires further attention. We appreciate your trust and look forward to continuing our collaboration in the future.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Positive"
+    },
+    {
+        "prompt": "Thank an interviewer after a job interview.",
+        "subject": "Thank You for the Opportunity",
+        "body": "Dear [Interviewer's Name],\n\nI wanted to express my sincere gratitude for the opportunity to interview for the [job title] position at [Company Name]. It was a pleasure to learn more about the role and the company’s exciting plans for the future.\n\nI am genuinely enthusiastic about the possibility of joining the team, and I appreciate the time you took to discuss how my skills align with the position.\n\nThank you again for your time and consideration.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Apologize for missing a meeting due to personal reasons.",
+        "subject": "Apology for Missing Meeting",
+        "body": "Dear [Recipient's Name],\n\nI want to sincerely apologize for missing our scheduled meeting earlier today. Due to unforeseen personal circumstances, I was unable to attend. I understand the importance of the meeting and take full responsibility for my absence.\n\nIf possible, I would greatly appreciate the opportunity to reschedule at your convenience. Please let me know a time that works for you.\n\nOnce again, I apologize for any inconvenience caused.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Sincere"
+    },
+    {
+        "prompt": "Request a product demo for a potential purchase.",
+        "subject": "Request for Product Demo",
+        "body": "Dear [Company's Name],\n\nI am interested in learning more about your product, specifically [product name], and would appreciate it if you could arrange a demonstration. It would be helpful to see how the product could meet our needs and discuss potential implementation.\n\nPlease let me know your availability for a demo session at your earliest convenience.\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Complain to customer service about a billing error.",
+        "subject": "Issue with Billing: Request for Correction",
+        "body": "Dear [Customer Service],\n\nI am writing to bring to your attention an error in my recent billing statement. The invoice [invoice number] includes a charge for [specific issue] that I believe is incorrect.\n\nCould you please review the charges and issue a correction? I would appreciate a prompt response to resolve this matter.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Complain",
+        "tone": "Assertive"
+    },
+    {
+        "prompt": "Congratulate a colleague on receiving a promotion.",
+        "subject": "Congratulations on Your Promotion!",
+        "body": "Dear [Colleague's Name],\n\nI wanted to take a moment to congratulate you on your well-deserved promotion to [new position]. Your hard work and dedication have clearly paid off, and I am so excited to see you take on this new role.\n\nWishing you all the best in this exciting next chapter of your career!\n\nWarm regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Positive"
+    },
+    {
+        "prompt": "Provide feedback to a colleague on their recent presentation.",
+        "subject": "Feedback on Your Recent Presentation",
+        "body": "Dear [Colleague's Name],\n\nI wanted to provide some feedback on your recent presentation at the [event/meeting]. Overall, I thought you did an excellent job, particularly in explaining [specific aspect]. Your delivery was clear, and the data you presented was insightful.\n\nOne suggestion I would make for future presentations is to possibly [suggestion for improvement]. I hope you find this feedback helpful!\n\nBest regards,\n[Your Name]",
+        "intent": "Provide",
+        "tone": "Constructive"
+    },
+    {
+        "prompt": "Remind a team about an important policy update.",
+        "subject": "Reminder: Important Policy Update",
+        "body": "Dear Team,\n\nI wanted to remind everyone about the recent update to our [policy name], which is effective as of [date]. Please make sure you have reviewed the updated guidelines and incorporated any necessary changes into your work processes.\n\nIf anyone has questions or needs clarification, feel free to reach out to HR or management.\n\nThank you for your attention to this important matter.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Request an extension for a project deadline.",
+        "subject": "Request for Project Deadline Extension",
+        "body": "Dear [Recipient's Name],\n\nI hope you’re well. I am writing to request an extension for the deadline on the [project name]. Due to [specific reason], I am concerned that I will not be able to complete the project by the original deadline of [current deadline].\n\nCould we possibly extend the deadline to [proposed new deadline]? This extension will ensure that the project is completed to the highest standard.\n\nThank you for considering my request. I look forward to your response.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Inquire about the status of a refund request.",
+        "subject": "Follow-Up on Refund Request",
+        "body": "Dear [Customer Service],\n\nI am following up on my refund request for [product/service] submitted on [date]. I have not yet received confirmation or an update regarding the status of the refund.\n\nCould you please provide an update or let me know if any additional information is required from my end?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Notify a team about a change in the project plan.",
+        "subject": "Change in Project Plan Notification",
+        "body": "Dear Team,\n\nI wanted to inform you of a change in the project plan for [project name]. Due to [specific reason], we need to adjust our approach to [specific change].\n\nPlease review the updated plan attached and make the necessary adjustments to your tasks. If you have any questions or concerns about the new plan, let me know.\n\nThank you for your understanding and flexibility.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Direct"
+    },
+    {
+        "prompt": "Ask for a reference letter from a former professor.",
+        "subject": "Request for a Reference Letter",
+        "body": "Dear Professor [Last Name],\n\nI hope this message finds you well. I am in the process of applying for [specific opportunity or program] and was wondering if you would be willing to provide a reference letter for me.\n\nYour insights and support would greatly strengthen my application. If you agree, I will send over the necessary details and deadline information.\n\nThank you very much for considering my request.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Respectful"
+    },
+    {
+        "prompt": "Respond to a customer complaint about a delayed delivery.",
+        "subject": "Apology for Delayed Delivery",
+        "body": "Dear [Customer's Name],\n\nI am sorry to hear about the delay in your delivery of [product/service]. We understand how important timely delivery is and sincerely apologize for any inconvenience caused.\n\nWe are looking into the issue and will ensure that your order is expedited. You will receive an updated delivery status soon. As a token of our apology, we would like to offer you [compensation or discount].\n\nThank you for your patience and understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Sympathetic"
+    },
+    {
+        "prompt": "Request a meeting to discuss a new business proposal.",
+        "subject": "Request for Meeting to Discuss Business Proposal",
+        "body": "Dear [Recipient's Name],\n\nI would like to request a meeting to discuss a new business proposal that I believe could be mutually beneficial. The proposal focuses on [brief overview of proposal].\n\nPlease let me know your availability over the next few days so we can schedule a time to go over the details.\n\nLooking forward to your response.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Thank a customer for their feedback on a product.",
+        "subject": "Thank You for Your Feedback!",
+        "body": "Dear [Customer's Name],\n\nThank you for taking the time to provide feedback on our [product]. We greatly appreciate your input as it helps us to continually improve our offerings.\n\nWe are pleased to hear that [specific positive feedback], and we will take your suggestions on board for future updates. If you have any further comments or need assistance, please feel free to reach out.\n\nThank you again for your support.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Appreciative"
+    },
+    {
+        "prompt": "Inform an employee about a change in their work schedule.",
+        "subject": "Change in Work Schedule",
+        "body": "Dear [Employee's Name],\n\nI wanted to inform you about a change in your work schedule starting from [date]. Due to [specific reason], your new schedule will be [new schedule details].\n\nPlease review the updated schedule and let me know if you have any concerns or if this change will affect your availability.\n\nThank you for your understanding and cooperation.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Request additional information about a product from a supplier.",
+        "subject": "Request for Additional Product Information",
+        "body": "Dear [Supplier's Name],\n\nI am interested in learning more about [product name] and would appreciate if you could provide additional details. Specifically, I am looking for information on [specific details needed, e.g., specifications, pricing, availability].\n\nYour prompt response would be greatly appreciated as it will help us make an informed decision.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Apologize for a mistake made in a recent report.",
+        "subject": "Apology for Error in Recent Report",
+        "body": "Dear [Recipient's Name],\n\nI am writing to apologize for the error found in the recent report titled [report name]. The mistake in [specific section or data] was an oversight on my part.\n\nI have corrected the error and attached the updated report for your review. I apologize for any confusion or inconvenience this may have caused.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Remorseful"
+    },
+    {
+        "prompt": "Request an update on the status of a job application.",
+        "subject": "Update on Job Application Status",
+        "body": "Dear [Recipient's Name],\n\nI hope this message finds you well. I am writing to inquire about the status of my application for the [job title] position submitted on [date]. I am very interested in this opportunity and am eager to know if there have been any updates or next steps in the hiring process.\n\nThank you for considering my application. I look forward to your response.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Send a reminder for an upcoming deadline.",
+        "subject": "Reminder: Upcoming Deadline",
+        "body": "Dear [Recipient's Name],\n\nI wanted to send a friendly reminder that the deadline for [specific task or project] is approaching on [date]. Please ensure that all required materials or deliverables are submitted by this date.\n\nIf you need any assistance or have any questions, feel free to reach out.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]",
+        "intent": "Reminder",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Request feedback on a recent training session.",
+        "subject": "Request for Feedback on Training Session",
+        "body": "Dear [Recipient's Name],\n\nI hope you are doing well. We recently held a training session on [topic] and would greatly appreciate your feedback on the session.\n\nPlease let us know your thoughts on the content, delivery, and overall effectiveness. Your feedback will help us improve future training sessions.\n\nThank you for your time and input.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Constructive"
+    },
+    {
+        "prompt": "Inform a customer about an upcoming maintenance window.",
+        "subject": "Upcoming Maintenance Window Notification",
+        "body": "Dear [Customer's Name],\n\nWe want to inform you about an upcoming maintenance window for [service/product] scheduled for [date and time]. During this time, [describe any expected impact or downtime].\n\nWe apologize for any inconvenience this may cause and appreciate your understanding as we work to improve our service.\n\nIf you have any questions or concerns, please do not hesitate to contact us.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Request clarification on a recent policy change.",
+        "subject": "Clarification Needed on Recent Policy Change",
+        "body": "Dear [Recipient's Name],\n\nI am reaching out to request clarification regarding the recent change in [specific policy or procedure]. I have reviewed the updated policy but have some questions about [specific aspect or details].\n\nCould you please provide additional information or explain the implications of this change?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Thank a client for their recent business.",
+        "subject": "Thank You for Your Recent Business",
+        "body": "Dear [Client's Name],\n\nI wanted to take a moment to thank you for your recent business with [company name]. We appreciate your trust and are committed to providing you with the best possible service.\n\nIf you have any feedback or require further assistance, please do not hesitate to contact us.\n\nThank you once again for choosing us.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Appreciative"
+    },
+    {
+        "prompt": "Send an invitation to a team-building event.",
+        "subject": "Invitation to Team-Building Event",
+        "body": "Dear Team,\n\nI am excited to invite you to our upcoming team-building event on [date] at [location]. The event will include [brief description of activities], and it's a great opportunity for us to strengthen our team bonds and have some fun.\n\nPlease RSVP by [RSVP date] so we can finalize the arrangements.\n\nLooking forward to seeing everyone there!\n\nBest regards,\n[Your Name]",
+        "intent": "Invite",
+        "tone": "Enthusiastic"
+    },
+    {
+        "prompt": "Request a change to a recent order due to an error.",
+        "subject": "Request to Amend Recent Order",
+        "body": "Dear [Supplier's Name],\n\nI am writing to request a change to my recent order [order number]. It appears there was an error in the order details, specifically [describe the issue].\n\nCould you please correct the order and confirm the updated details? I apologize for any inconvenience this may cause and appreciate your prompt attention to this matter.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Assertive"
+    },
+    {
+        "prompt": "Inform an employee about a new company policy.",
+        "subject": "New Company Policy Announcement",
+        "body": "Dear [Employee's Name],\n\nWe would like to inform you about a new company policy that will be effective from [date]. The new policy, [brief description of policy], aims to [purpose of policy].\n\nPlease review the detailed policy document attached and ensure you understand the changes. If you have any questions or need further clarification, feel free to reach out.\n\nThank you for your attention to this update.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Request support for a technical issue with a product.",
+        "subject": "Request for Technical Support",
+        "body": "Dear [Support Team],\n\nI am experiencing a technical issue with [product/service] that I hope you can assist with. The issue is [describe the problem], and it started occurring on [date].\n\nPlease provide guidance on how to resolve this issue or let me know if any additional information is needed from my end.\n\nThank you for your support.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Concerned"
+    },
+    {
+        "prompt": "Compliment a colleague on their excellent work.",
+        "subject": "Compliments on Your Excellent Work",
+        "body": "Dear [Colleague's Name],\n\nI wanted to take a moment to compliment you on the excellent work you did on [specific project/task]. Your [mention specific aspects of the work] was outstanding and truly appreciated by everyone involved.\n\nThank you for your dedication and hard work. It does not go unnoticed!\n\nBest regards,\n[Your Name]",
+        "intent": "Compliment",
+        "tone": "Encouraging"
+    },
+    {
+        "prompt": "Ask for an update on the status of a product shipment.",
+        "subject": "Update Request on Product Shipment",
+        "body": "Dear [Customer Service],\n\nI am reaching out to request an update on the shipment of my recent order [order number]. The expected delivery date was [original date], but I have not yet received any tracking information or updates.\n\nCould you please provide the current status of the shipment and an estimated delivery time?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Send a reminder for an overdue invoice.",
+        "subject": "Reminder: Overdue Invoice",
+        "body": "Dear [Client's Name],\n\nThis is a friendly reminder that invoice [invoice number] dated [invoice date] is overdue. The total amount due is [amount].\n\nPlease arrange for payment at your earliest convenience. If you have already made the payment, please disregard this notice. If you need any assistance or have questions regarding the invoice, let me know.\n\nThank you for your prompt attention.\n\nBest regards,\n[Your Name]",
+        "intent": "Reminder",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Request a status update on a pending job interview.",
+        "subject": "Follow-Up on Job Interview Status",
+        "body": "Dear [Recipient's Name],\n\nI hope this message finds you well. I am following up regarding the status of my job interview for the [position title] that took place on [interview date]. I am very interested in the opportunity and would appreciate any updates you can provide.\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Notify a client of a change in service terms.",
+        "subject": "Notification of Change in Service Terms",
+        "body": "Dear [Client's Name],\n\nWe would like to inform you of a change in the terms of service for [specific service]. The new terms will be effective from [date] and include [brief description of changes].\n\nPlease review the updated terms attached and let us know if you have any questions or concerns.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Request a meeting to discuss project deliverables.",
+        "subject": "Meeting Request: Discuss Project Deliverables",
+        "body": "Dear [Recipient's Name],\n\nI would like to request a meeting to discuss the deliverables for our current project, [project name]. It is important to review the upcoming milestones and ensure that everything is on track.\n\nPlease let me know your availability this week so we can schedule a time to meet.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send an apology for missing a scheduled call.",
+        "subject": "Apology for Missing Scheduled Call",
+        "body": "Dear [Recipient's Name],\n\nI apologize for missing our scheduled call on [date]. I understand the importance of our discussion and deeply regret any inconvenience this may have caused.\n\nPlease let me know your availability for a rescheduled call. I am eager to discuss [specific topic] at a time that works for you.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Regretful"
+    },
+    {
+        "prompt": "Inquire about the availability of a new product.",
+        "subject": "Inquiry About Availability of New Product",
+        "body": "Dear [Supplier's Name],\n\nI am interested in the availability of your new product, [product name]. Could you please provide information on when it will be available for purchase and any pre-order options?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Curious"
+    },
+    {
+        "prompt": "Confirm receipt of a payment from a client.",
+        "subject": "Confirmation of Payment Receipt",
+        "body": "Dear [Client's Name],\n\nI am writing to confirm that we have received your payment for invoice [invoice number] in the amount of [amount]. Thank you for your prompt payment.\n\nIf you have any further questions or need assistance, please feel free to reach out.\n\nBest regards,\n[Your Name]",
+        "intent": "Confirm",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Send a follow-up email after a networking event.",
+        "subject": "Great Meeting You at [Event Name]",
+        "body": "Dear [Recipient's Name],\n\nIt was a pleasure meeting you at [event name] on [date]. I enjoyed our conversation about [specific topic] and would love to continue our discussion.\n\nPlease let me know if you would be available for a coffee or a call in the coming weeks.\n\nLooking forward to staying in touch.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Request clarification on a recent bill.",
+        "subject": "Clarification Needed on Recent Bill",
+        "body": "Dear [Billing Department],\n\nI am writing to request clarification on a charge included in my recent bill dated [date]. The charge for [specific item or service] appears to be different from what was expected.\n\nCould you please provide a detailed explanation of this charge or correct the bill if there was an error?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Send a congratulatory email for a promotion.",
+        "subject": "Congratulations on Your Promotion!",
+        "body": "Dear [Recipient's Name],\n\nCongratulations on your well-deserved promotion to [new position]! Your hard work and dedication have truly paid off, and this achievement is a testament to your skills and contributions.\n\nWe are excited to see you thrive in your new role and are confident that you will continue to excel. If you need any support during this transition, please feel free to reach out.\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Enthusiastic"
+    },
+    {
+        "prompt": "Request assistance with a billing discrepancy.",
+        "subject": "Assistance Required for Billing Discrepancy",
+        "body": "Dear [Billing Team],\n\nI am reaching out for assistance regarding a discrepancy I noticed in my recent bill for [specific service or product]. The total amount charged seems incorrect compared to the agreed-upon amount.\n\nCould you please review the bill and provide clarification or adjust the charges as necessary? Your prompt attention to this matter would be greatly appreciated.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Concerned"
+    },
+    {
+        "prompt": "Send a thank you note for a referral.",
+        "subject": "Thank You for the Referral!",
+        "body": "Dear [Referrer's Name],\n\nI wanted to extend my sincere thanks for referring [new contact’s name] to our services. We greatly appreciate your trust and support in helping us connect with new clients.\n\nIf there is anything we can do to return the favor or assist you in any way, please let us know.\n\nThank you once again for your valuable referral.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Request a reschedule of a meeting due to a conflict.",
+        "subject": "Request to Reschedule Meeting",
+        "body": "Dear [Recipient's Name],\n\nI regret to inform you that I have a scheduling conflict and will be unable to attend our meeting on [original date and time]. I am very interested in rescheduling our meeting at a time that is convenient for you.\n\nPlease let me know your availability for alternative dates and times.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Inform about a product recall.",
+        "subject": "Important: Product Recall Notice",
+        "body": "Dear [Customer's Name],\n\nWe are writing to inform you about a recall of [product name] due to [reason for recall]. Your safety is our top priority, and we request that you stop using the product immediately and follow the instructions for returning it or obtaining a refund.\n\nPlease contact us at [contact information] for further assistance or if you have any questions.\n\nWe apologize for any inconvenience this may cause and appreciate your cooperation.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Serious"
+    },
+    {
+        "prompt": "Request feedback on a recent service experience.",
+        "subject": "Request for Feedback on Recent Service Experience",
+        "body": "Dear [Customer's Name],\n\nThank you for using our services recently. We strive to provide the best experience possible and would greatly appreciate your feedback on your recent service experience.\n\nPlease take a moment to complete our short survey or reply with any comments you may have. Your input is valuable to us and will help us improve our services.\n\nThank you for your time and feedback.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Send a notification about a scheduled maintenance.",
+        "subject": "Scheduled Maintenance Notification",
+        "body": "Dear [Customer's Name],\n\nWe want to inform you about a scheduled maintenance for [service/product] on [date] from [start time] to [end time]. During this period, [describe any expected downtime or impact].\n\nWe apologize for any inconvenience this may cause and appreciate your understanding as we perform necessary updates to improve our service.\n\nIf you have any questions or concerns, please contact us at [contact information].\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Confirm a meeting appointment.",
+        "subject": "Meeting Appointment Confirmation",
+        "body": "Dear [Recipient's Name],\n\nI am writing to confirm our meeting scheduled for [date] at [time]. We will be discussing [meeting topic or agenda].\n\nPlease let me know if there are any changes to the schedule or if there are additional topics you would like to address during our meeting.\n\nLooking forward to our discussion.\n\nBest regards,\n[Your Name]",
+        "intent": "Confirm",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Request an extension on a project deadline.",
+        "subject": "Request for Project Deadline Extension",
+        "body": "Dear [Recipient's Name],\n\nI am writing to request an extension for the deadline of the [project name] due on [current deadline]. Due to [brief explanation of reason], I believe that additional time would be beneficial to ensure the highest quality of work.\n\nCould we please discuss a new deadline that works for both parties? I appreciate your understanding and flexibility.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Humble"
+    },
+    {
+        "prompt": "Send a follow-up email on a pending support request.",
+        "subject": "Follow-Up on Support Request",
+        "body": "Dear [Support Team],\n\nI am following up on my previous support request submitted on [date]. I have not yet received a response and would like to check on the status of the request.\n\nPlease provide an update or let me know if further information is needed from my end.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Patient"
+    },
+    {
+        "prompt": "Notify a team about a new project assignment.",
+        "subject": "New Project Assignment Notification",
+        "body": "Dear Team,\n\nI am pleased to announce that we have been assigned a new project, [project name], starting on [start date]. This project will involve [brief description of project scope].\n\nPlease review the attached project details and be prepared to discuss the initial steps in our upcoming meeting on [date].\n\nLooking forward to working together on this exciting new project.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Excited"
+    },
+    {
+        "prompt": "Request clarification on a job offer.",
+        "subject": "Clarification Required on Job Offer",
+        "body": "Dear [Recipient's Name],\n\nThank you for extending the job offer for the [position title] role. I am excited about the opportunity but would like to request some clarification on [specific details, such as salary, benefits, or job responsibilities].\n\nCould you please provide more information on these points? I look forward to finalizing the offer and joining your team.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Curious"
+    },
+    {
+        "prompt": "Request a refund for a defective product.",
+        "subject": "Request for Refund Due to Defective Product",
+        "body": "Dear [Customer Service],\n\nI am writing to request a refund for the [product name] that I purchased on [purchase date]. Unfortunately, the product is defective and does not meet the expected quality standards.\n\nPlease let me know the procedure for returning the item and obtaining a refund. I would appreciate your assistance in resolving this issue as soon as possible.\n\nThank you for your attention.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Displeased"
+    },
+    {
+        "prompt": "Notify a client of a new policy change.",
+        "subject": "Notice of Policy Change",
+        "body": "Dear [Client's Name],\n\nWe are writing to inform you about a recent change in our policy regarding [specific policy]. The updated policy will take effect from [effective date].\n\nPlease review the attached document for detailed information on the changes. If you have any questions or concerns, feel free to contact us.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Request an update on a pending application.",
+        "subject": "Update Request on Pending Application",
+        "body": "Dear [Recipient's Name],\n\nI hope this message finds you well. I am following up on my application for [position/role/service] submitted on [submission date]. I would appreciate an update on the current status of my application and any next steps required.\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Send a congratulatory email for a completed certification.",
+        "subject": "Congratulations on Your Certification!",
+        "body": "Dear [Recipient's Name],\n\nCongratulations on successfully completing your certification in [certification name]! This is a significant achievement and a testament to your hard work and dedication.\n\nWe are thrilled for you and look forward to seeing how you will apply your new skills and knowledge. If there is any way we can support you further, please let us know.\n\nBest regards,\n[Your Name]",
+        "intent": "Congratulate",
+        "tone": "Enthusiastic"
+    },
+    {
+        "prompt": "Request a status update on a pending support ticket.",
+        "subject": "Follow-Up on Support Ticket Status",
+        "body": "Dear [Support Team],\n\nI am reaching out to request a status update on support ticket [ticket number], which was submitted on [submission date]. I have not yet received a response and would like to know the current status of the ticket.\n\nPlease provide an update or let me know if additional information is required.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Patient"
+    },
+    {
+        "prompt": "Send a notification about a change in business hours.",
+        "subject": "Change in Business Hours",
+        "body": "Dear [Customer's Name],\n\nWe would like to inform you of a change in our business hours. Effective from [effective date], our new business hours will be [new hours].\n\nWe apologize for any inconvenience this may cause and appreciate your understanding. If you have any questions or need further information, please do not hesitate to contact us.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Request a copy of a previous year's financial report.",
+        "subject": "Request for Previous Year's Financial Report",
+        "body": "Dear [Recipient's Name],\n\nI am writing to request a copy of the financial report for the fiscal year [year]. This document is needed for [specific purpose, e.g., review, audit].\n\nPlease let me know the procedure for obtaining this report or if any additional information is required from my end.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Inform about a change in project scope.",
+        "subject": "Change in Project Scope Notification",
+        "body": "Dear [Recipient's Name],\n\nWe want to inform you about a change in the scope of the [project name]. Due to [reason for change], we have adjusted the project scope to [new scope details].\n\nPlease review the updated scope and let us know if you have any questions or concerns.\n\nThank you for your understanding and cooperation.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send a thank you note after a job interview.",
+        "subject": "Thank You for the Interview Opportunity",
+        "body": "Dear [Interviewer's Name],\n\nThank you for the opportunity to interview for the [position title] role on [interview date]. I appreciated the chance to discuss my qualifications and learn more about [company name].\n\nI am very interested in the position and believe that my skills align well with the team’s needs. Please let me know if there are any further steps required from my end.\n\nThank you once again for your time and consideration.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Request assistance with a technical issue.",
+        "subject": "Request for Assistance with Technical Issue",
+        "body": "Dear [Technical Support],\n\nI am experiencing a technical issue with [describe the issue or product]. The problem started on [date] and is affecting [describe impact].\n\nCould you please provide assistance or guidance on how to resolve this issue? Your help would be greatly appreciated.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Urgent"
+    },
+    {
+        "prompt": "Notify a team of an upcoming team-building event.",
+        "subject": "Upcoming Team-Building Event",
+        "body": "Dear Team,\n\nWe are excited to announce an upcoming team-building event on [event date] at [event location]. This event will provide an opportunity to strengthen our teamwork and have some fun outside of the office.\n\nPlease mark your calendars and look out for more details to follow. We look forward to your participation.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Excited"
+    },
+    {
+        "prompt": "Request an extension for a payment due date.",
+        "subject": "Request for Payment Due Date Extension",
+        "body": "Dear [Recipient's Name],\n\nI am writing to request an extension on the payment due date for invoice [invoice number]. Due to [brief reason], I am unable to make the payment by the original due date of [original due date].\n\nCould we please arrange a new due date for the payment? Your understanding and assistance in this matter would be greatly appreciated.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Humble"
+    },
+    {
+        "prompt": "Send a reminder for an upcoming deadline.",
+        "subject": "Reminder: Upcoming Deadline for [Task/Project]",
+        "body": "Dear [Recipient's Name],\n\nThis is a friendly reminder that the deadline for [task/project] is approaching on [deadline date]. Please ensure that all necessary actions are completed by this date to avoid any delays.\n\nIf you have any questions or need assistance, please let me know.\n\nThank you for your attention.\n\nBest regards,\n[Your Name]",
+        "intent": "Reminder",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Inform about a new feature added to a product.",
+        "subject": "Introducing a New Feature in [Product Name]",
+        "body": "Dear [Customer's Name],\n\nWe are excited to announce a new feature added to [product name]: [feature description]. This new feature aims to [benefits or improvements].\n\nWe encourage you to try it out and let us know your feedback. If you have any questions or need assistance, feel free to contact our support team.\n\nThank you for being a valued customer.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Enthusiastic"
+    },
+    {
+        "prompt": "Request clarification on a recent purchase.",
+        "subject": "Clarification Needed on Recent Purchase",
+        "body": "Dear [Customer Service],\n\nI recently made a purchase of [product/service] on [purchase date] and would like some clarification on [specific issue, e.g., charges, features].\n\nCould you please provide more details or resolve this issue at your earliest convenience?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Send a follow-up on a pending job application.",
+        "subject": "Follow-Up on Job Application",
+        "body": "Dear [Recipient's Name],\n\nI am following up on my application for the [position title] role that I submitted on [submission date]. I am very interested in this opportunity and would appreciate an update on the status of my application.\n\nPlease let me know if there are any further steps or additional information required.\n\nThank you for your time and consideration.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-up",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Notify about changes in shipping policy.",
+        "subject": "Update to Our Shipping Policy",
+        "body": "Dear [Customer's Name],\n\nWe would like to inform you about a recent update to our shipping policy. Effective from [effective date], [describe the changes to the shipping policy].\n\nPlease review the updated policy details in the attached document. If you have any questions or need further clarification, do not hesitate to contact us.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Send a thank you note for attending an event.",
+        "subject": "Thank You for Attending [Event Name]",
+        "body": "Dear [Recipient's Name],\n\nThank you for attending [event name] on [event date]. We hope you found the event informative and enjoyable.\n\nYour participation was greatly appreciated, and we look forward to seeing you at future events. If you have any feedback or suggestions, please feel free to share.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Request information on a product warranty.",
+        "subject": "Inquiry About Product Warranty",
+        "body": "Dear [Customer Service],\n\nI am reaching out to inquire about the warranty for [product name]. Could you please provide detailed information on the warranty coverage, duration, and how to proceed with a warranty claim if necessary?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Inform a client about a scheduled maintenance window.",
+        "subject": "Scheduled Maintenance Window Notice",
+        "body": "Dear [Client's Name],\n\nWe would like to inform you about a scheduled maintenance window for [service/product] on [date] from [start time] to [end time]. During this time, [describe the expected impact].\n\nWe apologize for any inconvenience this may cause and appreciate your understanding as we work to improve our services.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send a request for an updated quote.",
+        "subject": "Request for Updated Quote",
+        "body": "Dear [Recipient's Name],\n\nI am writing to request an updated quote for [product/service] based on the following changes [describe changes if applicable].\n\nPlease provide the revised quote at your earliest convenience. If you need any additional information from my end, please let me know.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Notify about an upcoming company holiday.",
+        "subject": "Notice: Upcoming Company Holiday",
+        "body": "Dear [Recipient's Name],\n\nWe would like to inform you that our company will be closed for [holiday] on [date]. During this period, [describe any impact on services or operations].\n\nWe appreciate your understanding and will resume normal operations on [date]. If you have any urgent matters, please contact us before the holiday.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Request an update on a project budget.",
+        "subject": "Request for Project Budget Update",
+        "body": "Dear [Recipient's Name],\n\nI am writing to request an update on the current status of the project budget for [project name]. We need to ensure that the budget allocations align with our planned expenditures.\n\nCould you please provide the latest budget report and any changes made? Your prompt response would be greatly appreciated.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Send a confirmation of receipt for an important document.",
+        "subject": "Confirmation of Receipt: [Document Name]",
+        "body": "Dear [Sender's Name],\n\nI am writing to confirm that we have received your document titled [document name] sent on [date]. The document is now under review, and we will get back to you if any further action is required.\n\nThank you for your submission.\n\nBest regards,\n[Your Name]",
+        "intent": "Confirm",
+        "tone": "Acknowledging"
+    },
+    {
+        "prompt": "Inform about a change in the team structure.",
+        "subject": "Change in Team Structure Notification",
+        "body": "Dear Team,\n\nWe would like to inform you of a recent change in our team structure. Effective from [date], [name] will be taking on the role of [new role], and [name] will be [describe changes].\n\nPlease join us in welcoming [name] to their new role and feel free to reach out if you have any questions regarding these changes.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Request for feedback on a recent service experience.",
+        "subject": "Request for Feedback on Your Recent Service Experience",
+        "body": "Dear [Customer's Name],\n\nWe hope you are doing well. We would like to request your feedback on your recent experience with our service [describe service]. Your input is valuable to us and will help us improve our offerings.\n\nPlease take a moment to complete the short survey attached. Thank you for your time and assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Notify about a delay in shipping.",
+        "subject": "Notice of Shipping Delay",
+        "body": "Dear [Customer's Name],\n\nWe regret to inform you that there will be a delay in the shipping of your order [order number]. The new estimated delivery date is [new date].\n\nWe apologize for any inconvenience this may cause and appreciate your understanding. If you have any questions or need further assistance, please contact us.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Send a reminder for a scheduled appointment.",
+        "subject": "Reminder: Upcoming Appointment on [Date]",
+        "body": "Dear [Recipient's Name],\n\nThis is a reminder for your scheduled appointment on [date] at [time]. Please ensure that you arrive at least 10 minutes early.\n\nIf you need to reschedule or have any questions, please contact us at [contact information].\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Reminder",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Request a change in subscription plan.",
+        "subject": "Request to Change Subscription Plan",
+        "body": "Dear [Customer Service],\n\nI would like to request a change in my current subscription plan to [desired plan]. Please let me know the process and any additional information needed to make this change.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Inform about a new policy regarding data privacy.",
+        "subject": "Update: New Data Privacy Policy",
+        "body": "Dear [Customer's Name],\n\nWe are updating our data privacy policy effective from [date]. The new policy outlines how we handle and protect your personal information.\n\nPlease review the attached document for detailed information. If you have any questions or concerns, please feel free to contact us.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Send a thank you message for a business partnership.",
+        "subject": "Thank You for Partnering with Us",
+        "body": "Dear [Partner's Name],\n\nWe want to express our gratitude for partnering with us. Your collaboration has been invaluable, and we look forward to continuing our successful partnership.\n\nIf there are any additional ways we can support your efforts, please let us know.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Request information on upcoming webinars.",
+        "subject": "Inquiry About Upcoming Webinars",
+        "body": "Dear [Recipient's Name],\n\nI am interested in learning about any upcoming webinars hosted by your organization. Could you please provide information on the topics, dates, and registration details?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Notify about changes in office hours.",
+        "subject": "Update: Changes in Office Hours",
+        "body": "Dear [Recipient's Name],\n\nWe would like to inform you about changes in our office hours. Effective from [date], our new office hours will be [new hours].\n\nPlease adjust your schedule accordingly. If you have any urgent matters, feel free to contact us during the new hours.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Request an update on a pending support ticket.",
+        "subject": "Update Request on Support Ticket [Ticket Number]",
+        "body": "Dear [Support Team],\n\nI am writing to request an update on my support ticket [ticket number] submitted on [submission date]. I would appreciate any information on the current status and the estimated resolution time.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Inform about a product recall.",
+        "subject": "Important Notice: Product Recall",
+        "body": "Dear [Customer's Name],\n\nWe regret to inform you that [product name] is being recalled due to [reason for recall]. Please stop using the product immediately and follow the instructions provided in the attached document for returning or exchanging the item.\n\nWe apologize for any inconvenience this may cause and appreciate your cooperation.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Request a meeting to discuss a new proposal.",
+        "subject": "Request for Meeting: Discussion on New Proposal",
+        "body": "Dear [Recipient's Name],\n\nI would like to request a meeting to discuss a new proposal regarding [brief description of proposal]. Please let me know your availability over the next week so we can arrange a suitable time.\n\nThank you for considering this request.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send an apology for a missed appointment.",
+        "subject": "Apology for Missing Your Appointment",
+        "body": "Dear [Recipient's Name],\n\nI sincerely apologize for missing our scheduled appointment on [date]. Due to [brief reason], I was unable to attend. I understand the inconvenience this may have caused and am committed to rescheduling at your earliest convenience.\n\nPlease let me know a suitable time for you.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Regretful"
+    },
+    {
+        "prompt": "Inform about a new policy on remote work.",
+        "subject": "New Remote Work Policy Announcement",
+        "body": "Dear Team,\n\nWe are implementing a new policy regarding remote work effective from [date]. The policy outlines [key points of the new policy].\n\nPlease review the attached document for detailed information and reach out if you have any questions.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Request an extension on a project deadline.",
+        "subject": "Request for Extension on Project Deadline",
+        "body": "Dear [Recipient's Name],\n\nI am writing to request an extension on the deadline for [project/task name] originally set for [original deadline]. Due to [brief reason], we need additional time to complete the project. A new proposed deadline is [new deadline].\n\nThank you for considering this request.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Notify about a change in contact information.",
+        "subject": "Update: Change in Contact Information",
+        "body": "Dear [Recipient's Name],\n\nPlease be informed that my contact information has changed. Effective from [date], you can reach me at [new contact details].\n\nI apologize for any inconvenience this may cause and appreciate your updating of records.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send a thank you note for a referral.",
+        "subject": "Thank You for the Referral",
+        "body": "Dear [Recipient's Name],\n\nThank you for referring [referred person/company] to us. We appreciate your support and trust in our services.\n\nIf there’s anything else we can assist with or if you need further help, please feel free to reach out.\n\nBest regards,\n[Your Name]",
+        "intent": "Thank",
+        "tone": "Grateful"
+    },
+    {
+        "prompt": "Request additional information on a service upgrade.",
+        "subject": "Inquiry About Service Upgrade Options",
+        "body": "Dear [Service Provider],\n\nI am interested in learning more about the available options for upgrading my current service plan. Could you please provide detailed information on the upgrades, including pricing and features?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Inform about a change in company leadership.",
+        "subject": "Announcement: Change in Company Leadership",
+        "body": "Dear [Recipient's Name],\n\nWe are pleased to announce that [New Leader's Name] will be joining us as the new [Position] effective [Date]. [New Leader's Name] brings a wealth of experience in [brief description of background].\n\nWe are excited about the fresh perspective [New Leader's Name] will bring and look forward to your continued support.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Request feedback on a recent product.",
+        "subject": "Feedback Request: [Product Name]",
+        "body": "Dear [Customer's Name],\n\nWe hope you are enjoying your recent purchase of [product name]. We would greatly appreciate your feedback on the product's performance and any suggestions you might have for improvements.\n\nPlease take a few moments to complete the attached feedback form.\n\nThank you for your valuable input.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Notify about a holiday office closure.",
+        "subject": "Holiday Office Closure Notice",
+        "body": "Dear [Recipient's Name],\n\nPlease be informed that our office will be closed from [start date] to [end date] for the holiday season. We will resume regular operations on [reopening date].\n\nDuring this period, please contact us via [alternative contact method] for any urgent matters.\n\nHappy holidays!\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Request a status update on a recent application.",
+        "subject": "Status Update Request on Application [Application Number]",
+        "body": "Dear [Recipient's Name],\n\nI am following up on the status of my recent application for [application type], submitted on [submission date]. Could you please provide an update on its current status and any next steps?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Send a notice of policy changes to clients.",
+        "subject": "Important Notice: Changes to Our Policies",
+        "body": "Dear [Client's Name],\n\nWe would like to inform you of recent changes to our policies, effective from [date]. The updated policies include [brief description of changes].\n\nPlease review the attached document for full details. If you have any questions, feel free to contact us.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Apologize for a service disruption.",
+        "subject": "Apology for Service Disruption",
+        "body": "Dear [Customer's Name],\n\nWe sincerely apologize for the recent disruption in our service that occurred on [date]. We understand the inconvenience this may have caused and are working diligently to prevent such issues in the future.\n\nThank you for your patience and understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Regretful"
+    },
+    {
+        "prompt": "Request a quote for a new service.",
+        "subject": "Request for Quote: [Service Name]",
+        "body": "Dear [Service Provider],\n\nI am interested in obtaining a quote for [service name]. Could you please provide detailed information regarding pricing, terms, and any additional fees?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Inform about a new feature in a product.",
+        "subject": "Introducing New Feature: [Feature Name]",
+        "body": "Dear [Customer's Name],\n\nWe are excited to announce the release of a new feature in [product name]: [feature name]. This feature includes [brief description of feature and benefits].\n\nWe hope you find this new addition valuable. For more details, please visit [website or attached document].\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Enthusiastic"
+    },
+    {
+        "prompt": "Request a refund for a recent purchase.",
+        "subject": "Request for Refund: [Order Number]",
+        "body": "Dear [Customer Service],\n\nI am requesting a refund for my recent purchase of [product/service], order number [order number]. The reason for the refund request is [brief reason].\n\nPlease let me know the next steps and any information you need from my side to process this request.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Send an update on a team project.",
+        "subject": "Team Project Update",
+        "body": "Dear Team,\n\nI wanted to provide an update on our ongoing project, [project name]. We have completed [recent milestones] and are currently working on [next steps].\n\nPlease ensure that your respective tasks are on track and let me know if there are any issues or support needed.\n\nBest regards,\n[Your Name]",
+        "intent": "Update",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Request confirmation of a reservation.",
+        "subject": "Reservation Confirmation Request",
+        "body": "Dear [Recipient's Name],\n\nI am writing to request confirmation of my reservation for [event/booking details] scheduled on [date]. Please confirm the reservation and provide any additional details or instructions if necessary.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Inform about a delay in shipment.",
+        "subject": "Notice: Delay in Shipment",
+        "body": "Dear [Customer's Name],\n\nWe regret to inform you that there will be a delay in the shipment of your order [order number]. The new estimated delivery date is [new date].\n\nWe apologize for any inconvenience this may cause and appreciate your patience.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Apologetic"
+    },
+    {
+        "prompt": "Request additional support on a technical issue.",
+        "subject": "Request for Additional Technical Support",
+        "body": "Dear [Support Team],\n\nI am experiencing ongoing issues with [describe technical problem]. I previously reached out for support but am still encountering difficulties. Could you please provide additional assistance or escalate this issue?\n\nThank you for your help.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Send a reminder for an upcoming payment due.",
+        "subject": "Payment Due Reminder",
+        "body": "Dear [Recipient's Name],\n\nThis is a reminder that your payment for [invoice number] is due on [due date]. Please ensure that the payment is made by the due date to avoid any late fees.\n\nIf you have any questions regarding this payment, please contact us.\n\nBest regards,\n[Your Name]",
+        "intent": "Reminder",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Inform about a new team member joining the company.",
+        "subject": "Welcome [New Team Member's Name] to the Team!",
+        "body": "Dear Team,\n\nWe are excited to announce that [New Team Member's Name] will be joining us as a [new position] starting on [start date]. [New Team Member's Name] brings [brief description of experience or background].\n\nPlease join me in welcoming [New Team Member's Name] to our team.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Welcoming"
+    },
+    {
+        "prompt": "Request clarification on an invoice.",
+        "subject": "Clarification Needed on Invoice [Invoice Number]",
+        "body": "Dear [Recipient's Name],\n\nI have received invoice [invoice number] and need some clarification regarding [specific item or charge]. Could you please provide more details or an explanation?\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Inquisitive"
+    },
+    {
+        "prompt": "Send a follow-up on a job application.",
+        "subject": "Follow-Up on Job Application for [Position Name]",
+        "body": "Dear [Hiring Manager's Name],\n\nI am following up on my job application for the [position name] role submitted on [submission date]. I am very interested in the opportunity and would like to know the status of my application.\n\nThank you for considering my application.\n\nBest regards,\n[Your Name]",
+        "intent": "Follow-Up",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Notify about an upcoming maintenance period.",
+        "subject": "Scheduled Maintenance Notice",
+        "body": "Dear [Recipient's Name],\n\nPlease be advised that our systems will undergo scheduled maintenance on [date] from [start time] to [end time]. During this period, services may be temporarily unavailable.\n\nWe apologize for any inconvenience and appreciate your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Request a review of a recent meeting.",
+        "subject": "Request for Review: Recent Meeting on [Date]",
+        "body": "Dear [Recipient's Name],\n\nI would like to request a review of the recent meeting held on [date]. Could you please provide feedback or notes on the discussed points and any action items?\n\nThank you for your cooperation.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Apologize for a missed deadline.",
+        "subject": "Apology for Missed Deadline",
+        "body": "Dear [Recipient's Name],\n\nI apologize for missing the deadline for [project/task] that was due on [original due date]. Due to [brief reason], I was unable to complete the task on time. I am working to resolve the issue and will provide the completed work by [new due date].\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Regretful"
+    },
+    {
+        "prompt": "Request assistance with a product installation.",
+        "subject": "Request for Assistance with Product Installation",
+        "body": "Dear [Support Team],\n\nI am having trouble with the installation of [product name]. Could you please provide guidance or send a technician to assist with the installation process?\n\nThank you for your help.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Inform about a change in payment terms.",
+        "subject": "Update: Change in Payment Terms",
+        "body": "Dear [Recipient's Name],\n\nWe would like to inform you of a change in our payment terms. Effective [date], the new payment terms will be [new terms]. Please review the updated terms and let us know if you have any questions or concerns.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Send a confirmation for an event registration.",
+        "subject": "Event Registration Confirmation",
+        "body": "Dear [Participant's Name],\n\nThank you for registering for [event name] on [event date]. We have received your registration and look forward to your participation.\n\nPlease find the event details attached. If you have any questions, feel free to reach out.\n\nBest regards,\n[Your Name]",
+        "intent": "Confirm",
+        "tone": "Friendly"
+    },
+    {
+        "prompt": "Request a meeting to discuss a contract renewal.",
+        "subject": "Request for Meeting: Contract Renewal Discussion",
+        "body": "Dear [Recipient's Name],\n\nI would like to request a meeting to discuss the renewal of our contract for [service/product]. Please let me know your availability for a meeting in the coming week to go over the terms and address any questions.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Inform about a change in office location.",
+        "subject": "Office Location Change Notification",
+        "body": "Dear [Recipient's Name],\n\nWe are moving to a new office location. Effective from [date], our new address will be [new address]. Please update your records accordingly and visit us at our new location for future correspondence.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Apologize for a billing error.",
+        "subject": "Apology for Billing Error",
+        "body": "Dear [Customer's Name],\n\nWe apologize for the billing error on your recent invoice [invoice number]. We have corrected the error and a revised invoice will be sent to you shortly.\n\nThank you for your patience and understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Regretful"
+    },
+    {
+        "prompt": "Request feedback on a service experience.",
+        "subject": "Feedback Request: Recent Service Experience",
+        "body": "Dear [Customer's Name],\n\nWe would like to hear about your recent experience with our service. Your feedback is valuable to us and will help us improve our services.\n\nPlease take a few moments to complete the attached survey.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Polite"
+    },
+    {
+        "prompt": "Send a reminder for a scheduled call.",
+        "subject": "Reminder: Scheduled Call on [Date]",
+        "body": "Dear [Recipient's Name],\n\nThis is a reminder for our scheduled call on [date] at [time]. Please ensure that you are available at the appointed time.\n\nLooking forward to our discussion.\n\nBest regards,\n[Your Name]",
+        "intent": "Reminder",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Notify about a new policy regarding remote work.",
+        "subject": "New Remote Work Policy Announcement",
+        "body": "Dear Team,\n\nWe are introducing a new policy for remote work effective from [date]. The policy details [key points of the new policy].\n\nPlease review the attached document for more information. If you have any questions, do not hesitate to ask.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Request a change in delivery address for an order.",
+        "subject": "Request to Change Delivery Address for Order [Order Number]",
+        "body": "Dear [Customer Service],\n\nI would like to request a change in the delivery address for my order [order number]. The new delivery address is [new address].\n\nPlease confirm that this change has been made and let me know if any additional information is required.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Send an invitation to a company webinar.",
+        "subject": "Invitation to Our Upcoming Webinar: [Webinar Topic]",
+        "body": "Dear [Recipient's Name],\n\nWe are excited to invite you to our upcoming webinar on [webinar topic] scheduled for [date] at [time]. This webinar will cover [brief overview of the topic].\n\nPlease find the registration link and additional details in the attached document. We look forward to your participation.\n\nBest regards,\n[Your Name]",
+        "intent": "Invite",
+        "tone": "Enthusiastic"
+    },
+    {
+        "prompt": "Request a meeting to discuss performance review.",
+        "subject": "Meeting Request: Performance Review Discussion",
+        "body": "Dear [Recipient's Name],\n\nI would like to request a meeting to discuss my recent performance review. Please let me know your availability for a meeting in the next few days to go over the feedback and discuss any areas for improvement.\n\nThank you.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Professional"
+    },
+    {
+        "prompt": "Inform about an upcoming training session.",
+        "subject": "Upcoming Training Session: [Training Topic]",
+        "body": "Dear [Recipient's Name],\n\nWe are pleased to inform you about an upcoming training session on [training topic] scheduled for [date] at [time]. This training will cover [brief overview of what will be covered].\n\nPlease confirm your attendance by [RSVP date]. Further details are included in the attached document.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Informative"
+    },
+    {
+        "prompt": "Request an extension for a project deadline.",
+        "subject": "Request for Project Deadline Extension",
+        "body": "Dear [Recipient's Name],\n\nI am requesting an extension for the deadline of the [project name] project, originally due on [original due date]. Due to [brief reason], I will need additional time to complete the project. I am proposing a new deadline of [new proposed deadline].\n\nThank you for considering my request.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Notify about a new product launch.",
+        "subject": "Introducing Our New Product: [Product Name]",
+        "body": "Dear [Recipient's Name],\n\nWe are excited to announce the launch of our new product, [product name]. This product features [brief description of key features or benefits].\n\nTo learn more about [product name], please visit our website or contact us for further details.\n\nBest regards,\n[Your Name]",
+        "intent": "Notify",
+        "tone": "Excited"
+    },
+    {
+        "prompt": "Request a change in subscription plan.",
+        "subject": "Request to Change Subscription Plan",
+        "body": "Dear [Service Provider],\n\nI would like to request a change in my current subscription plan from [current plan] to [desired plan]. Please let me know the steps required to make this change and if there will be any adjustments to the billing.\n\nThank you for your assistance.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Inform about a new office opening.",
+        "subject": "Announcement: New Office Opening",
+        "body": "Dear [Recipient's Name],\n\nWe are thrilled to announce the opening of our new office located at [new address]. The grand opening will be held on [date], and we would be delighted to have you join us for the event.\n\nPlease find the invitation and additional details attached. We look forward to seeing you there.\n\nBest regards,\n[Your Name]",
+        "intent": "Inform",
+        "tone": "Excited"
+    },
+    {
+        "prompt": "Request confirmation of an appointment.",
+        "subject": "Appointment Confirmation Request",
+        "body": "Dear [Recipient's Name],\n\nI am writing to request confirmation of my appointment scheduled for [date] at [time]. Please confirm if this time is still convenient or if there are any changes needed.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]",
+        "intent": "Request",
+        "tone": "Formal"
+    },
+    {
+        "prompt": "Apologize for a missed meeting.",
+        "subject": "Apology for Missing Our Meeting",
+        "body": "Dear [Recipient's Name],\n\nI apologize for missing our scheduled meeting on [date]. I was unable to attend due to [brief reason]. I would like to reschedule the meeting at your earliest convenience.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]",
+        "intent": "Apologize",
+        "tone": "Regretful"
+    }
+]
